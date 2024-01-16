@@ -1,0 +1,112 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Dev1_Labo_drill 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Dev1_Labo_drill 1.0-SNAPSHOT API'
+Seance1
+Seance2
+Seance3
+Seance4
+Seance5
+Seance6
+Seance7
+Seance8
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance1/Exercice1.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance1/Exercice2.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance1/Exercice3.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance1/Exercice4.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance1/Exercice5.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice1.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice10.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice11.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice2.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice3.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice4.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice5.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice6.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice7.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice8.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance2/Exercice9.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice1.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice2.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice3.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice4.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice5.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice6.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice7.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance3/Exercice8.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice10.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice1a.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice1b.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice1c.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice1d.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice1e.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice2.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice3.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice4.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice5.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice6.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice7.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice8.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exercice9.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance4/Exerice11.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice10.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice11.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice12a.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice12b.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice1a.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice1b.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice1c.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice1d.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice1e.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice2.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice3.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice4.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice5.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice6.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice7.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exercice8.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance5/Exerice9.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance6/ChaineUtil.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance6/MathUtil.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance6/MathUtilalternative.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance7/Calendrier.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance8/Calendrier.java'
+'C:/Users/alecw/Documents/NetBeansProjects/Dev1_Labo_drill/src/main/java/Seance8/Lecture.java'
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\src\main\java = 1645227696005
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\allclasses-frame.html = 1645640965711
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\allclasses-noframe.html = 1645640965712
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\constant-values.html = 1645640965381
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\deprecated-list.html = 1645640965709
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\help-doc.html = 1645640965717
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\index-all.html = 1645640965705
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\index.html = 1645640965714
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\javadoc.bat = 1645640861113
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\overview-frame.html = 1645640965322
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\overview-summary.html = 1645640965715
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\overview-tree.html = 1645640965688
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\package-list = 1645640965320
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\script.js = 1645640965718
+C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill\target\site\apidocs\stylesheet.css = 1645640667236

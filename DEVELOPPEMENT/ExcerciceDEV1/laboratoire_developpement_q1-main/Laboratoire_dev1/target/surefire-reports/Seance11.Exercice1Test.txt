@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: Seance11.Exercice1Test
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec <<< FAILURE!
+Seance11.Exercice1Test.testIncrémenterTableauNégatif()  Time elapsed: 0.047 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: array contents differ at index [1], expected: <1> but was: <-1>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.AssertArrayEquals.failArraysNotEqual(AssertArrayEquals.java:432)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:244)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:90)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:86)
+	at org.junit.jupiter.api.Assertions.assertArrayEquals(Assertions.java:1260)
+	at Seance11.Exercice1Test.testIncrémenterTableauNégatif(Exercice1Test.java:99)
+
+Seance11.Exercice1Test.testMultiplierNull()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Seance11.Exercice1.multiplier(Exercice1.java:70)
+	at Seance11.Exercice1Test.testMultiplierNull(Exercice1Test.java:22)
+

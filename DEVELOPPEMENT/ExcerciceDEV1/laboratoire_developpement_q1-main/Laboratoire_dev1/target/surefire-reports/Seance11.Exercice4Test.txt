@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: Seance11.Exercice4Test
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+Seance11.Exercice4Test.testAfficherTaillesNull()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Seance11.Exercice4.afficherTailles(Exercice4.java:51)
+	at Seance11.Exercice4Test.testAfficherTaillesNull(Exercice4Test.java:24)
+
+Seance11.Exercice4Test.testPlusLongMotNull()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Seance11.Exercice4.plusLongMot(Exercice4.java:58)
+	at Seance11.Exercice4Test.testPlusLongMotNull(Exercice4Test.java:64)
+
+Seance11.Exercice4Test.testPlusLongMotVide()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at Seance11.Exercice4.plusLongMot(Exercice4.java:58)
+	at Seance11.Exercice4Test.testPlusLongMotVide(Exercice4Test.java:74)
+

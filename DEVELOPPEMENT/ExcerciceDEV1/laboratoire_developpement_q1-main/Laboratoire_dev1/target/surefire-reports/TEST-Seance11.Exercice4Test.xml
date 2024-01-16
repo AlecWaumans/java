@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="13" failures="3" name="Seance11.Exercice4Test" time="0" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="BE"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="test" value="Seance11.Exercice4Test"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\alecw\Documents\NetBeansProjects\Dev1_Labo_drill"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\alecw\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\PuTTY\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\alecw\AppData\Local\Microsoft\WindowsApps;;C:\Users\alecw\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\alecw"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="alecw"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_211\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Seance11.Exercice4Test -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 surefire:test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="fr"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTaillesVide" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTaillesTaille3" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTaillesNull" time="0">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at Seance11.Exercice4.afficherTailles(Exercice4.java:51)
+	at Seance11.Exercice4Test.testAfficherTaillesNull(Exercice4Test.java:24)
+</failure>
+    <system-out>testAfficherTaillesNull
+</system-out>
+  </testcase>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotDernierMot" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotPlusieursMots" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTaillesAutreTaille" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotAutreMot" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotNull" time="0">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at Seance11.Exercice4.plusLongMot(Exercice4.java:58)
+	at Seance11.Exercice4Test.testPlusLongMotNull(Exercice4Test.java:64)
+</failure>
+    <system-out>testPlusLongMotNull
+</system-out>
+  </testcase>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotVide" time="0">
+    <failure message="0" type="java.lang.ArrayIndexOutOfBoundsException">java.lang.ArrayIndexOutOfBoundsException: 0
+	at Seance11.Exercice4.plusLongMot(Exercice4.java:58)
+	at Seance11.Exercice4Test.testPlusLongMotVide(Exercice4Test.java:74)
+</failure>
+    <system-out>testPlusLongMotVide
+</system-out>
+  </testcase>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testPlusLongMotPremierMot" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTabVide" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTabnégatif" time="0"/>
+  <testcase classname="Seance11.Exercice4Test" name="Seance11.Exercice4Test.testAfficherTabPositif" time="0"/>
+</testsuite>

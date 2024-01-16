@@ -1,0 +1,8 @@
+reglementdecompte\model\Place.class
+reglementdecompte\model\Color.class
+reglementdecompte\model\Board.class
+reglementdecompte\controller\Controller.class
+reglementdecompte\main\main.class
+reglementdecompte\model\Player.class
+reglementdecompte\model\Billet\Billet.class
+reglementdecompte\model\Gangsters\Gangster.class

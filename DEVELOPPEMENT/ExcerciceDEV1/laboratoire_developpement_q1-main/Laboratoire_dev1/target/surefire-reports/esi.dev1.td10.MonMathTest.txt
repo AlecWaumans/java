@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: esi.dev1.td10.MonMathTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.016 sec <<< FAILURE!
+esi.dev1.td10.MonMathTest.testPérimettre()  Time elapsed: 0.013 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <62.83185307179586> but was: <69.11503837897544>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:70)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:65)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:868)
+	at esi.dev1.td10.MonMathTest.testPérimettre(MonMathTest.java:26)
+
